@@ -1,0 +1,9 @@
+{
+    "diffEditor.maxFileSize": 0,
+    "diffEditor.renderSideBySideInlineBreakpoint": 900,
+    "diffEditor.useInlineViewWhenSpaceIsLimited": false,
+    "diffEditor.wordWrap": "on",
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.editor.wrapTabs": true,
+    "editor.wordWrapColumn": 60
+}
